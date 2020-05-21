@@ -7,6 +7,6 @@ public class DateDemo {
 
       String str = String.format("Current Date/Time : %tc", date );
 
-      System.out.printf(str);
+      System.out.println(str);
    }
 }
